@@ -155,5 +155,5 @@ int main() {
     << time_span_ordinary_search_worst.count() << " ns" << "    "
     << "Time_span_ordinary_search_average: " << time_span_ordinary_search_average <<" ns" << '\n';
     
-    
+         
 }

@@ -9,7 +9,7 @@ void linear_search(int a[1000], int sum) { //Change!!!
             if (a[first] + a[second + 1] <= sum) {
                 second++;
             }
-            else{
+            else{     
                 first++;
             }
         }
